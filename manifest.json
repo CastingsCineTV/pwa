@@ -1,0 +1,21 @@
+{
+"name": "Castings CineTV",
+"short_name": "Castings",
+"start_url": "https://www.castingscinetv.com/",
+"scope": "https://www.castingscinetv.com/",
+"display": "standalone",
+"background_color": "#000000",
+"theme_color": "#111111",
+"icons": [
+{
+"src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj.../s512/icon.png",
+"sizes": "512x512",
+"type": "image/png"
+},
+{
+"src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj.../s192/icon.png",
+"sizes": "192x192",
+"type": "image/png"
+}
+]
+}
