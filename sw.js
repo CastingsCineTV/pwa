@@ -1,3 +1,4 @@
+importScripts('https://cdn.onesignal.com/sdks/OneSignalSDKWorker.js');
 const CACHE_NAME = "castings-cache-v1";
 
 const urlsToCache = [
